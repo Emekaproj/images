@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>img (40).JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\train\img (40).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>569</width>
+		<height>314</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trees</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>136</ymin>
+			<xmax>212</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>trees</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>93</ymin>
+			<xmax>405</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
